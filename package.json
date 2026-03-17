@@ -1,0 +1,24 @@
+{
+  "name": "ai-leetcode-explainer-gemini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahKhirallah/ai-leetcode-explainer-gemini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahKhirallah/ai-leetcode-explainer-gemini/issues"
+  },
+  "homepage": "https://github.com/AbdallahKhirallah/ai-leetcode-explainer-gemini#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.3.1"
+  }
+}
